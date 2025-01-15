@@ -15,3 +15,6 @@ subjects:
   - kind: User
     name: foo
     namespace: project-memes-dev
+  - kind: User
+    name: user1
+    namespace: project-memes-dev
